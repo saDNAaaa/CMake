@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(CMakeDemo)
+set(CMAKE_SYSTEM_VERSION 1)
+set(CMAKE_CXX_COMPILER "g++")
+set(CMAKE_BUILD_TYPE Debug)
+add_subdirectory(${PROJECT_SOURCE_DIR}/src)

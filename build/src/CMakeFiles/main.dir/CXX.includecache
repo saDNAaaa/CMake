@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libdemo.hpp
+iostream
+-
+
+../include/main.hpp
+
+/Users/wanaoi/Cs/c++/cmake/Project/Test2/src/main.cpp
+main.hpp
+/Users/wanaoi/Cs/c++/cmake/Project/Test2/src/main.hpp
+libdemo.hpp
+/Users/wanaoi/Cs/c++/cmake/Project/Test2/src/libdemo.hpp
+

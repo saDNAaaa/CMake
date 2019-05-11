@@ -1,0 +1,1 @@
+g++ -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -dynamiclib -Wl,-headerpad_max_install_names  -o libshared_demo.dylib -install_name /Users/wanaoi/Cs/c++/cmake/Project/Test2/build/src/libshared_demo.dylib CMakeFiles/shared_demo.dir/libdemo.cpp.o 
