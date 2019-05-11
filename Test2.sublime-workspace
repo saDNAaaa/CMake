@@ -1,1 +1,1094 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"targ",
+				"target_link_libraries\tcommand"
+			],
+			[
+				"add_",
+				"add_executable\tcommand"
+			],
+			[
+				"fin",
+				"find_library\tcommand"
+			],
+			[
+				"s",
+				"shared_demo"
+			],
+			[
+				"set_",
+				"set_target_properties\tcommand"
+			],
+			[
+				"PRO",
+				"PROJECT_SOURCE_DIR\tbuiltin"
+			],
+			[
+				"Pr",
+				"PROJECT_SOURCE_DIR\tbuiltin"
+			],
+			[
+				"P",
+				"PROJECT_SOURCE_DIR\tbuiltin"
+			],
+			[
+				"CMAKE_SYS",
+				"CMAKE_SYSTEM_VERSION"
+			],
+			[
+				"cmake_",
+				"cmake_minimum_required"
+			],
+			[
+				"pri",
+				"print_ok"
+			],
+			[
+				"PAC",
+				"PACKAGE_TARNAME"
+			],
+			[
+				"PACK",
+				"PACKAGE_VERSION"
+			],
+			[
+				"PA",
+				"PACKAGE_BUGREPORT"
+			],
+			[
+				"cmake",
+				"cmake_minimum_required\tcommand"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"vm_",
+				"vm_run"
+			],
+			[
+				"E",
+				"ERR_DMEM"
+			],
+			[
+				"i",
+				"itp"
+			],
+			[
+				"di",
+				"div_exec"
+			],
+			[
+				"ins",
+				"instrunc_t"
+			],
+			[
+				"c",
+				"code"
+			],
+			[
+				"r",
+				"register"
+			],
+			[
+				"ex",
+				"Non-exist"
+			],
+			[
+				"inc",
+				"instruc_t"
+			],
+			[
+				"o",
+				"nOptions"
+			],
+			[
+				"J",
+				"JavaVMInitArgs"
+			],
+			[
+				"cs",
+				"cstdio\tstandard header"
+			],
+			[
+				"DOM",
+				"DOMDocument"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"em",
+				"embed\tTag"
+			],
+			[
+				"F",
+				"FEB"
+			],
+			[
+				"EM",
+				"EMathTMUL"
+			],
+			[
+				"Nor",
+				"Normaltext_pdata"
+			],
+			[
+				"marin",
+				"margin-right\tproperty"
+			],
+			[
+				"bakc",
+				"background-repeat\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"stack",
+				"stackaddr"
+			],
+			[
+				"MOV",
+				"MOV"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"p",
+				"point"
+			],
+			[
+				"f",
+				"FLOAT_LONG"
+			],
+			[
+				"tem",
+				"tem_swap"
+			],
+			[
+				"show",
+				"show_usage"
+			],
+			[
+				"r_",
+				"r_msg"
+			],
+			[
+				"T",
+				"TiXmlText"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"Ti",
+				"TiXmlText"
+			],
+			[
+				"TiX",
+				"TiXmlText"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"str",
+				"string\tstandard header"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"g",
+				"getAttribute"
+			],
+			[
+				"tar",
+				"target"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"th",
+				"thread"
+			],
+			[
+				"thre",
+				"threading"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"do_",
+				"do_methods"
+			],
+			[
+				"Py",
+				"PyObject"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"La",
+				"language"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"hid",
+				"hider"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"e",
+				"events"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"_",
+				"_thread"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"pthe",
+				"pthead"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"set",
+				"setWidth"
+			],
+			[
+				"h",
+				"high"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 184,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Test2 (OSX)",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Test2 (OSX)",
+					""
+				],
+				[
+					"Test2 (OSX)",
+					"clean"
+				],
+				[
+					"Test2 (OSX)",
+					"rebuild_cache"
+				],
+				[
+					"Test2 (OSX)",
+					"hello"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Test2 (OSX)",
+					""
+				],
+				[
+					"Test2 (OSX)",
+					"clean"
+				],
+				[
+					"Test2 (OSX)",
+					"rebuild_cache"
+				],
+				[
+					"Test2 (OSX)",
+					"hello"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Test2 (OSX)",
+				"clean"
+			]
+		],
+		[
+			[
+				[
+					"Test2 (OSX)",
+					""
+				],
+				[
+					"Test2 (OSX)",
+					"clean"
+				],
+				[
+					"Test2 (OSX)",
+					"rebuild_cache"
+				],
+				[
+					"Test2 (OSX)",
+					"main"
+				],
+				[
+					"Test2 (OSX)",
+					"shared_demo"
+				]
+			],
+			[
+				"Test2 (OSX)",
+				"clean"
+			]
+		],
+		[
+			[
+				[
+					"Test2 (OSX)",
+					""
+				],
+				[
+					"Test2 (OSX)",
+					"clean"
+				],
+				[
+					"Test2 (OSX)",
+					"rebuild_cache"
+				],
+				[
+					"Test2 (OSX)",
+					"main"
+				],
+				[
+					"Test2 (OSX)",
+					"shared_demo"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Test2 (OSX)",
+					""
+				],
+				[
+					"Test2 (OSX)",
+					"clean"
+				],
+				[
+					"Test2 (OSX)",
+					"rebuild_cache"
+				],
+				[
+					"Test2 (OSX)",
+					"main"
+				],
+				[
+					"Test2 (OSX)",
+					"shared_demo"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Test2 (OSX)",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PCIP",
+				"Package Control: Install Package"
+			],
+			[
+				"MarkDownP",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"git m",
+				"Git: Merge Branch"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"aa",
+				"Git: Add All"
+			],
+			[
+				"gpus",
+				"Git: Push"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"gaa",
+				"Git: Add All"
+			],
+			[
+				"git co\t",
+				"Git: Commit"
+			],
+			[
+				"Git:add",
+				"Git: Add All"
+			],
+			[
+				"Git",
+				"Git: Gui"
+			],
+			[
+				"GL",
+				"Glue - Launch"
+			],
+			[
+				"PCI",
+				"Package Control: Install Package"
+			],
+			[
+				"gl",
+				"Glue - Launch"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git:status",
+				"Git: Status"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"git remote",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git",
+				"Git: Fetch"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"g",
+				"Git: Init"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"MarkdownP",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins\t",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				":$",
+				":$ - EOF"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Build: New Build System"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"os.mkdir(\"./Test1\")",
+			"os.mkdir()",
+			"os",
+			"os.help()",
+			"os.help(",
+			"import os",
+			"make",
+			"import os",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"scan",
+			"os.open(\"~/Sites/login.php\", 1);",
+			"os.open(\"~/Sites/login.html\", 1);",
+			"os.open(\"~/Sites/login.html\");",
+			"import os",
+			"1",
+			"True",
+			"true",
+			"print 1",
+			"print(\"1\")",
+			"print(\"1)",
+			"print()",
+			"os.ps",
+			"os.ps1",
+			"import os",
+			"sys.ps1",
+			"import sys",
+			"python",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wanaoi/Cs/c++/cmake/Project/Test2",
+		"/Users/wanaoi/Cs/c++/cmake/Project/Test2/build"
+	],
+	"file_history":
+	[
+		"/Users/wanaoi/Cs/c++/cmake/Project/Test2/README.html",
+		"/Users/wanaoi/Cs/c++/cmake/Project/Test2/build/terminal.glue",
+		"/Users/wanaoi/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/wanaoi/Cs/c++/cmake/Project/Test2/bin/main",
+		"/Users/wanaoi/Cs/c++/cmake/Project/Test2/include/libdemo.hpp",
+		"/Users/wanaoi/Cs/c++/cmake/Project/Test2/include/main.hpp",
+		"/Users/wanaoi/Cs/c++/cmake/Project/Test2/src/main.cpp",
+		"/Users/wanaoi/Cs/c++/cmake/Project/Test2/src/libdemo.cpp",
+		"/Users/wanaoi/Cs/c++/cmake/Project/Test2/src/Main.md",
+		"/Users/wanaoi/Cs/c++/ac_am/projects/Test2/main.cpp",
+		"/Users/wanaoi/Cs/c++/ac_am/projects/Test2/configure",
+		"/Users/wanaoi/Cs/c++/ac_am/projects/Test2/NEWS",
+		"/Users/wanaoi/Cs/c++/ac_am/projects/Test2/README",
+		"/Users/wanaoi/Cs/c++/ac_am/projects/Test2/config.h.in",
+		"/Users/wanaoi/Cs/c++/ac_am/projects/Test2/ChangeLog",
+		"/Users/wanaoi/Cs/c++/ac_am/projects/Test2/AUTHORS",
+		"/Users/wanaoi/Cs/c++/ac_am/projects/Test2/Makefile.in",
+		"/Users/wanaoi/Cs/c++/ac_am/projects/Test2/Makefile.am",
+		"/Users/wanaoi/Cs/c++/cmake/main.cpp",
+		"/Users/wanaoi/apache/www/get.php",
+		"/Users/wanaoi/st/channel_v3.json",
+		"/Users/wanaoi/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/wanaoi/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/wanaoi/apache/www/get.html",
+		"/Users/wanaoi/apache/www/mysql.php",
+		"/Users/wanaoi/Cs/c++/cmake/build/main.sublime-project",
+		"/Users/wanaoi/Cs/c++/ac_am/EasyLib/src/EMath.cxx",
+		"/Users/wanaoi/Cs/c++/ac_am/EasyLib/src/EMath.h",
+		"/Users/wanaoi/apache/cxxcompiling/main.cxx",
+		"/Users/wanaoi/apache/www/index.php",
+		"/Users/wanaoi/nginx/www/test.php",
+		"/Users/wanaoi/apache/www/index.html",
+		"/Users/wanaoi/Cs/c/VMS/vm.h",
+		"/Users/wanaoi/Cs/c/VMS/vm.c",
+		"/Users/wanaoi/Cs/c++/XMLTest.cxx",
+		"/Users/wanaoi/xml/test.xml",
+		"/Users/wanaoi/Cs/c/client.c",
+		"/Users/wanaoi/Cs/c/server.c",
+		"/Users/wanaoi/xml/test.dtd",
+		"/Users/wanaoi/nginx/www/flash.html",
+		"/Users/wanaoi/Cs/c++/server.cpp",
+		"/Users/wanaoi/Downloads/mariodos/mariodos/游戏说明.txt",
+		"/Users/wanaoi/Downloads/mariodos/mariodos/全屏游戏.bat",
+		"/Users/wanaoi/Downloads/mariodos/mariodos/start.bat",
+		"/Users/wanaoi/Cs/objc/main.m",
+		"/Users/wanaoi/Documents/Pkgs/ReadMe.txt",
+		"/Users/wanaoi/Cs/cmakes/No.1/CMakeLists.txt",
+		"/Users/wanaoi/Cs/cmakes/No.1/src/CMakeLists.txt",
+		"/Users/wanaoi/Cs/cmakes/No.1/main.c",
+		"/Users/wanaoi/Cs/cmakes/No.1/src/EMath.h",
+		"/Users/wanaoi/Cs/cmakes/No.1/src/EMath.c",
+		"/Users/wanaoi/Cs/cmakes/No.1/src/Math.c",
+		"/Users/wanaoi/Cs/cmakes/No.1/src/Math.h",
+		"/Users/wanaoi/Cs/c++/wxProjects/No.1/main.cpp",
+		"/Users/wanaoi/Cs/c++/wxProjects/No.1/frame.hpp",
+		"/Users/wanaoi/Cs/c/MySSL.c",
+		"/Users/wanaoi/nginx/www/index.html",
+		"/Users/wanaoi/nginx/www/ARF.c",
+		"/Users/wanaoi/Cs/c/forking.c",
+		"/Users/wanaoi/Cs/projects/c/stdfiles/Student.c",
+		"/Users/wanaoi/Cs/projects/c/stdfiles/file.c",
+		"/Users/wanaoi/nginx/www/main.css",
+		"/Users/wanaoi/Cs/c++/Stack.cpp",
+		"/Users/wanaoi/Cs/c++/wx.o",
+		"/Users/wanaoi/Downloads/.minecraft/saves/我的世界/datapacks/ENDERPEAL/data/ender/recipes/my.json",
+		"/Users/wanaoi/asm/nasm/main.asm",
+		"/Users/wanaoi/Cs/c/msd.c",
+		"/Users/wanaoi/Cs/c++/point.cpp",
+		"/Users/wanaoi/Documents/EASYCODE",
+		"/Users/wanaoi/Documents/笔记.txt",
+		"/Users/wanaoi/Cs/c++/msd.cpp",
+		"/Users/wanaoi/Documents/Main/~:cs:c++:msd.cpp",
+		"/Users/wanaoi/asm/gas/main.s",
+		"/Users/wanaoi/Library/Application Support/Sublime Text 3/Packages/sublimeassembly/Assembly x86.tmLanguage",
+		"/Users/wanaoi/Library/Application Support/Sublime Text 3/Packages/sublimeassembly/NASM.sublime-build",
+		"/Users/wanaoi/Cs/c++/autoxml/src/autoxml.cpp",
+		"/Users/wanaoi/Cs/c++/conf.xml",
+		"/Users/wanaoi/Cs/c++/autoxml.cpp",
+		"/Users/wanaoi/Cs/c++/xml.py",
+		"/Users/wanaoi/Cs/c++/run.sh",
+		"/Users/wanaoi/Cs/c++/com.sh",
+		"/Users/wanaoi/Cs/c++/class.cpp",
+		"/Users/wanaoi/Documents/Main/main.cpp",
+		"/Users/wanaoi/Downloads/.minecraft/versions/1.13.2/1.13.2.json",
+		"/Users/wanaoi/private files/files.xml",
+		"/Users/wanaoi/private files/Easy's cert.cer",
+		"/Volumes/SURVEY_PROGRAM/SURVEY_PROGRAM.app/Contents/Resources/lang/lang_en.json",
+		"/Users/wanaoi/xml/Students.xml",
+		"/Users/wanaoi/Cs/c/debug",
+		"/Users/wanaoi/Cs/Make/Makefile",
+		"/Users/wanaoi/Cs/cmakes/CMakeLists.txt",
+		"/Users/wanaoi/Cs/cmakes/main.c",
+		"/Users/wanaoi/Cs/cmakes/Makefile",
+		"/编程第一课",
+		"/Users/wanaoi/Cs/c/process.c",
+		"/Users/wanaoi/Cs/c/process",
+		"/Users/wanaoi/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/wanaoi/Downloads/data.yml",
+		"/Users/wanaoi/nginx/www/login.html",
+		"/Users/wanaoi/nginx/www/sql.php",
+		"/Users/wanaoi/nginx/www/index.php",
+		"/Users/wanaoi/nginx/www/test.html",
+		"/Users/wanaoi/nginx/www/mysql.php",
+		"/usr/local/nginx/nginx.conf",
+		"/Users/wanaoi/nginx/www/name.php",
+		"/Users/wanaoi/apache/conf/httpd.conf",
+		"/Users/wanaoi/Sites/cgi-bin/main.py",
+		"/Users/wanaoi/py/web/Test/Test/urls.py",
+		"/Users/wanaoi/py/main.xml",
+		"/Users/wanaoi/py/testxml/conf.xml",
+		"/Users/wanaoi/py/testxml/test.py",
+		"/Users/wanaoi/nginx/www/conf.xml",
+		"/Users/wanaoi/py/xmlpy.py",
+		"/Library/Java/tomcat/webapps/ROOT/main.jsp",
+		"/Users/wanaoi/cgi/cgi-bin/main.py",
+		"/Users/wanaoi/nginx/www/main.txt",
+		"/Users/wanaoi/nginx/www/main.js",
+		"/Users/wanaoi/Sites/login.php",
+		"/Users/wanaoi/Downloads/TESTJSP.sql",
+		"/Users/wanaoi/Downloads/TESTJSP.xml",
+		"/Users/wanaoi/Downloads/times.sql",
+		"/Users/wanaoi/Sites/as.html",
+		"/Users/wanaoi/Sites/as.php",
+		"/Users/wanaoi/Sites/test.html",
+		"/Users/wanaoi/Sites/jquery.js",
+		"/Users/wanaoi/Sites/welcome.html",
+		"/Users/wanaoi/git/pypy_get_pip/get-pip.py",
+		"/Users/wanaoi/js/main.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/Users/wanaoi/Cs/c++/cmake/Project/Test2/lib"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"libshared_demo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/CMakeLists.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CMake/CMake.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CMakeLists.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CMake/CMake.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Test2 (OSX)",
+	"project": "Test2.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"CMakeLists.txt"
+			],
+			[
+				"a",
+				"~/asm/nasm/main.asm"
+			],
+			[
+				"~/py",
+				"~/py/test.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
