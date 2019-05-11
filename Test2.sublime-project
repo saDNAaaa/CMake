@@ -3,7 +3,7 @@
 	[
 		{
 			"file_regex": "(.+[^:]):(\\d+):(\\d+): (?:fatal )?((?:error|warning): .+)$",
-			"name": "Test2 (OSX)",
+			"name": "CMake",
 			"shell_cmd": "make -j4",
 			"syntax": "Packages/CMakeBuilder/Syntax/Make.sublime-syntax",
 			"variants":
@@ -23,6 +23,10 @@
 				{
 					"name": "shared_demo",
 					"shell_cmd": "make -j4 shared_demo"
+				},
+				{
+					"name": "all",
+					"shell_cmd": "make"
 				}
 			],
 			"working_dir": "${project_path}/build"
