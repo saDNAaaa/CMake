@@ -1,6 +1,0 @@
-/Users/wanaoi/Cs/c++/cmake/Project/Test2/build/CMakeFiles/rebuild_cache.dir
-/Users/wanaoi/Cs/c++/cmake/Project/Test2/build/CMakeFiles/edit_cache.dir
-/Users/wanaoi/Cs/c++/cmake/Project/Test2/build/src/CMakeFiles/rebuild_cache.dir
-/Users/wanaoi/Cs/c++/cmake/Project/Test2/build/src/CMakeFiles/edit_cache.dir
-/Users/wanaoi/Cs/c++/cmake/Project/Test2/build/src/CMakeFiles/main.dir
-/Users/wanaoi/Cs/c++/cmake/Project/Test2/build/src/CMakeFiles/shared_demo.dir
